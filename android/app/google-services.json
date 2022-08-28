@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7856651580",
+    "project_id": "bts-wall-8e047",
+    "storage_bucket": "bts-wall-8e047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7856651580:android:5ab63e011185d0024e3239",
+        "android_client_info": {
+          "package_name": "com.gaurav19790.btswall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7856651580-8hh6f5irb27nt6uoahpvljs7dpdsvqlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvhNOsDSnVOtNQHaSLPZgQFCoXlDLal4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7856651580-8hh6f5irb27nt6uoahpvljs7dpdsvqlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
